@@ -1,8 +1,8 @@
 # -*- coding: utf-8 -*-
 """
-Spyder Editor
+Created on Mon Feb 13 21:36:35 2017
 
-This is a temporary script file.
+@author: lz714
 """
 
 from keras.models import Sequential
